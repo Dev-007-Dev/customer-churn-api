@@ -29,12 +29,7 @@ customer-churn-api/
 pip install -r requirements.txt
 ```
 
-(Optional — the model is already trained and saved. Only needed if you want
-to retrain from scratch using `gold_churn_data.csv`.)
 
-```bash
-python train_model.py
-```
 
 ## Running the API
 
